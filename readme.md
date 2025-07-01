@@ -1,2 +1,1 @@
-Git & Github 테스트 
-readme 수정
+Git & Github 테스트
